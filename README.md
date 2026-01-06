@@ -1,69 +1,20 @@
-# Hi, I’m Arina 👋  
-### Software Engineering Intern / Junior Software Engineer
+# Hi, I’m Arina
 
-I’m an **Information Technology & Management** student at **Illinois Institute of Technology** (Minor in Artificial Intelligence), actively looking for **Software Engineering internships and junior roles**.
+I work on **software engineering** projects, building full-stack applications and applied AI systems
+with a focus on clean backend logic, practical product features, and usable interfaces.
 
-I build full-stack applications with a strong focus on **clean backend logic, practical AI integrations, and usable interfaces**. I’ve worked on startup-style products end-to-end — from APIs and data models to frontend UI and product flow.
+- 💻 Built projects like **PitchPal**, **Growvio**, and a **Search Analysis App**
+- 🧠 Interested in software engineering, AI-powered products, and system design
 
----
+## Connect with me
+<a href="https://www.linkedin.com/in/arina-ovcharenko">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://instagram.com/arishok___">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
-## 🧠 Projects
-
-**PitchPal**  
-AI-powered interview simulator with voice interaction  
-- Built full-stack web app with React frontend and Java/Spring backend  
-- Designed REST APIs for interview flow, scoring, and feedback  
-- Implemented basic real-time communication and structured evaluation logic  
-
-**Growvio**  
-AI-driven daily task generation tool for founders and small teams  
-- Built responsive dashboards and onboarding flows in React  
-- Worked on task generation UX and product logic  
-- Co-led product design and feature prioritization  
-
-**Search Analysis App**  
-Semantic product search & query evaluation project  
-- Built a search system that maps natural language queries to structured filters  
-- Designed an evaluation pipeline to compare AI output with expected intent  
-- Improved accuracy through prompt refinement and normalization logic  
-
----
-
-## 🛠 Tech Stack (verified)
-
-### Languages
+## Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,javascript,react,nextjs,html,css,tailwind,nodejs,spring,postgres,mysql,git,github,docker,aws,gcp,figma" />
 </p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres,mysql" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,figma" />
-</p>
-
-> Everything listed here is based on **hands-on project usage**, not coursework-only exposure.
-
----
-
-## 🎯 Currently Looking For
-- Software Engineering Intern (Backend / Full-Stack)
-- Junior Software Engineer roles
-- Product-oriented engineering teams
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/arina-ovcharenko  
-- Portfolio: https://portfolio-phi-eight-53.vercel.app  
-- GitHub: https://github.com/ariovcharenko  
-- Instagram: https://instagram.com/arishok___
