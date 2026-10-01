@@ -1,10 +1,9 @@
 # Hi, I’m Arina
 
-I work on **software engineering** projects, building full-stack applications and applied AI systems
-with a focus on clean backend logic, practical product features, and usable interfaces.
+Software engineer building full-stack products with **React**, **TypeScript**, **Java**, and **AWS**. Former Software Engineer Intern at **Xsolla**, where I shipped 6 production features. I build with AI every day: Claude Code, Cursor, OpenAI API, and MCP integrations.
 
-- 💻 Built projects like **PitchPal**, **Growvio**, and a **Search Analysis App**
-- 🧠 Interested in software engineering, AI-powered products, and system design
+- 💻 Built projects like **PitchPal** and **Growvio**
+- 🎓 Illinois Tech ’27 · Relocating to Los Angeles · Open to new-grad SWE roles
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/arina-ovcharenko">
@@ -16,5 +15,5 @@ with a focus on clean backend logic, practical product features, and usable inte
 
 ## Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,java,javascript,react,nextjs,html,css,tailwind,nodejs,spring,postgres,mysql,git,github,docker,aws,gcp,figma" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,java,javascript,react,nextjs,html,css,tailwind,nodejs,spring,postgres,mysql,git,github,docker,aws,gcp,figma,swift,jest,githubactions,prometheus,grafana,prisma" />
 </p>
