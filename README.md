@@ -9,9 +9,6 @@ Software engineer building full-stack products with **React**, **TypeScript**, *
 <a href="https://www.linkedin.com/in/arina-ovcharenko">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://instagram.com/arishok___">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
 
 ## Languages & Tools
 <p>
